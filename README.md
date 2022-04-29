@@ -1,1 +1,1 @@
-# tensorFlow_Lite
+# Maze 입사를 위한 프로젝트입니다
